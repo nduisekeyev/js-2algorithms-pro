@@ -17,11 +17,18 @@ function someFunction(n) {
 someFunction(0);
 
 
+// var bottom floating to the top
 function scope1 () {
   var top = 'top';
   bottom = 'bottom';
   console.log(bottom);
-  var bottom;
+  var bottom; // bottom
 }
-
 scope1();
+
+
+var o1 = {};
+var o2 = {};
+o1 == o2; // false
+o1 === o2; // false
+// Although these objects are equivalent (same properties and values), they are not equal
