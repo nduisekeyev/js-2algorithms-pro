@@ -2,6 +2,7 @@
 import './style.css';
 import './Problem_Solving/script.js';
 import './Problem_Solving/solve.js';
+import './Problem_Solving/refactor.js';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
