@@ -53,7 +53,7 @@
 // Refactor to get rid off Regular Exp
 function charCount(str) {
     const result = {};
-    for (const char of str) {
+    for (let char of str) {
         char = char.toLowerCase();
         if (isAlphaNumberic(char)) {
             result[char] = ++result[char] || 1;
@@ -71,5 +71,7 @@ function isAlphaNumberic(char) {
     }
     return true;
 }
+
+//Example of using this method https://jsperf.com/alphanumeric-charcode-vs-regexp
 
 console.log(charCount('Hello EVEREBODY !!!'));
