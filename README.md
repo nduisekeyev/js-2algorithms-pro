@@ -8,3 +8,4 @@ JavaScripl Algorithms and Data Structures
 - Section 2: Big O Notation
 - Section 3: Analyzing Performance of Arrays and Objects
 - Section 4: Problem Solving Approach
+- Section 5: Problem Solving Patterns
