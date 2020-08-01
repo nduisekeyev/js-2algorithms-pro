@@ -2,6 +2,7 @@
 import './style.css'
 import './Section_4/index.js'
 import './Section_5/index.js'
+import './Section_6/index.js'
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');

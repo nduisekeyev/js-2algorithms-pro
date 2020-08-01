@@ -9,3 +9,4 @@ JavaScripl Algorithms and Data Structures
 - Section 3: Analyzing Performance of Arrays and Objects
 - Section 4: Problem Solving Approach
 - Section 5: Problem Solving Patterns
+- Section 6: Optional Challenges
