@@ -3,6 +3,7 @@ import './style.css'
 import './Section_4/index.js'
 import './Section_5/index.js'
 import './Section_6/index.js'
+import './Section_7/index.js'
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
@@ -35,18 +36,3 @@ var o2 = {};
 o1 == o2; // false
 o1 === o2; // false
 // Although these objects are equivalent (same properties and values), they are not equal
-
-//Recursion method
-// The following function, which prints numbers counting down from n to 0
-
-function countDownToZero(n) {
-  // base case. Stop at 0
-  if (n < 0) {
-    return; //stop the function
-  } else {
-    console.log(n);
-    countDownToZero(n - 1);  // count down by 1
-  }
-}
-
-console.log(countDownToZero(12));
