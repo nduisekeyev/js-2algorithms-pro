@@ -2,7 +2,7 @@
 // The following function, which prints numbers counting down from n to 0
 
 function countDown(num){
-    if(num <= 0) {
+    if (num <= 0) {
         console.log("All done!");
         return;
     }
