@@ -4,6 +4,7 @@ import './Section_4/index.js'
 import './Section_5/index.js'
 import './Section_6/index.js'
 import './Section_7/index.js'
+import './Section_10/index.js'
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
