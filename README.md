@@ -11,4 +11,5 @@ JavaScripl Algorithms and Data Structures
 - Section 5: Problem Solving Patterns
 - Section 6: Optional Challenges
 - Section 7: Recursion
+- Section 9:  Bonus CHALLENGING Recursion Problems
 - Section 10: Searching Algorithms
