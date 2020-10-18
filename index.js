@@ -6,6 +6,7 @@ import './Section_6/index.js'
 import './Section_7/index.js'
 import './Section_9/index.js'
 import './Section_10/index.js'
+import './Section_11/index.js'
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
