@@ -13,3 +13,4 @@ JavaScripl Algorithms and Data Structures
 - Section 7: Recursion
 - Section 9:  Bonus CHALLENGING Recursion Problems
 - Section 10: Searching Algorithms
+- Section 11: Bubble Sort
